@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [CSP @ THS]({{ "/" | relative_url }})
 
-Harvard University\\
+Tower Hill School\\
 2019–2020
