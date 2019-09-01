@@ -1,10 +1,8 @@
 # Syllabus
 
-###### [Download the full syllabus as a PDF with mappings to the AP CSP Framework's Learning Objectives](https://www.dropbox.com/s/dl/3osf5dq3et1b13i/Syllabus%202019-20.pdf?dl=0)
-
 ## Description
 
-CS50 is Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming for students with a diversity of technological background and experience. CS50 for AP Computer Science Principles is an adaptation of CS50 specifically tailored to align with the AP Computer Science Principles curriculum framework. The course’s assignments, materials, and resources are all identical to the version of the course taught at the college-level, albeit adapted to suit a secondary school audience.
+Advanced Computer Science Principles is Tower Hill School's introduction to the intellectual enterprises of computer science and the art of programming for students with a diversity of technological background and experience. It is an adaptation of Harvard University’s CS50 specifically tailored to align with the AP Computer Science Principles curriculum framework. The course’s assignments, materials, and resources are all identical to the version of the course taught at the college-level, albeit adapted to suit a secondary school audience.
 
 Among this course’s objectives is to supply students with a comprehensive introduction to the fundamentals of the discipline of computer science. We will do so using programming in several different languages as a vehicle to introduce these fundamentals, including such topics as algorithms, abstraction, data, global impact, and internet technologies. Though the course is programming-heavy, it should be stressed that this is not a “programming course”; rather, this course should be considered one of problem-solving, creativity, and exploration. By year’s end, students will have a richer understanding of the key principles of the discipline of computer science. Students will be able to speak intelligently about how computers work and how they enable us to become better problem-solvers, and will hopefully be able to communicate that knowledge to others.
 
@@ -16,7 +14,7 @@ Students are expected to submit all problems! If students would like to receive 
 
 ## Prerequisites
 
-The only background required for CS50 for AP Computer Science Principles is completion of Algebra I or its equivalent.
+The only background required for Advanced Computer Science Principles is completion of Algebra I or its equivalent.
 
 ## Books
 
@@ -75,7 +73,7 @@ And the six computational thinking practices are:
 
 ## Curriculum
 
-The core curriculum is identical to that of the college. The AP modules include topics that are not covered in CS50 here on campus, but are essential to the AP Computer Science Principles Course. The AP modules are less programming centric and can be used wherever you see fit.
+The core curriculum is identical to that of the college. The AP modules include topics that are not covered on campus at Harvard - **or at Tower Hill**, but are essential to the AP Computer Science Principles Course. The AP modules are less programming centric and can be used wherever you see fit.
 
 ## CS50 Core Curriculum
 
@@ -121,11 +119,11 @@ Cookies. Sessions. Databases. SQL. Race Conditions.
 
 Hardware. The Internet. Multimedia. Security.
 
-### Data Science
+### Data Science (not covered during class at THS)
 
 Collecting Data. Analyzing Data.
 
-### Impact of Computing
+### Impact of Computing (not covered during class at THS)
 
 The Development Process. Scaling. Models. Simulations. The Digital Divide. Ethics and Legalities of Computing.
 
@@ -162,8 +160,8 @@ Below are rules of thumb that (inexhaustively) characterize acts that the course
 * Discussing the course's material with others in order to understand it better.
 * Helping a classmate identify a bug in his or her code in class, elsewhere, or even online, as by viewing, compiling, or running his or her code, even on your own computer.
 * Incorporating snippets of code that you find online or elsewhere into your own code, provided that those snippets are not themselves solutions to assigned problems and that you cite the snippets' origins.
-* Reviewing past semesters' quizzes and solutions thereto.
-* Sending or showing code that you've written to someone, possibly a classmate, so that he or she might help you identify and fix a bug.
+* Reviewing past years' or semesters' quizzes and solutions thereto.
+* Sending or showing code that you've written to someone, possibly a classmate, so that she or he might help you identify and fix a bug.
 * Sharing snippets of your own code online so that others might help you identify and fix a bug.
 * Turning to the web or elsewhere for instruction beyond the course's own, for references, and for solutions to technical difficulties, but not for outright solutions to problems or your own through-course assessments.
 * White-boarding solutions to problems with others using diagrams or pseudocode but not actual code.
@@ -175,9 +173,9 @@ Below are rules of thumb that (inexhaustively) characterize acts that the course
 * Asking a classmate to see his or her solution to a problem before (re-)submitting your own.
 * Decompiling, deobfuscating, or disassembling the staff's solutions to problems.
 * Failing to cite (as with comments) the origins of code or techniques that you discover outside of the course's own lessons and integrate into your own work, even while respecting this policy's other constraints.
-* Giving or showing to a classmate a solution to a problem when it is he or she, and not you, who is struggling to solve it.
+* Giving or showing to a classmate a solution to a problem when it is she or he, and not you, who is struggling to solve it.
 * Looking at another individual's work during a test or quiz.
-* Paying or offering to pay an individual for work that you may submit as (part of) your own.
+* Paying or offering to pay an individual for work that you may submit as your own or part of your own.
 * Providing or making available solutions to problems to individuals who might take this course in the future.
 * Searching for, soliciting, or viewing a test or quiz's questions or answers prior to taking a test or quiz.
 * Searching for or soliciting outright solutions to problems online or elsewhere.
