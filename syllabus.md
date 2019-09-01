@@ -73,7 +73,7 @@ And the six computational thinking practices are:
 
 ## Curriculum
 
-The core curriculum is identical to that of the college. The AP modules include topics that are not covered on campus at Harvard - **or at Tower Hill**, but are essential to the AP Computer Science Principles Course. The AP modules are less programming centric and can be used wherever you see fit.
+The core curriculum is identical to that of the college. The AP modules include topics that are not covered on campus at Harvard, **or at Tower Hill**, but are essential to the AP Computer Science Principles Curriculum. The AP modules are less programming centric and can be used wherever you see fit.
 
 ## CS50 Core Curriculum
 
