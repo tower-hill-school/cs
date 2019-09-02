@@ -9,6 +9,11 @@ Among this course’s objectives is to supply students with a comprehensive intr
 Whether students elect to take no other computer science courses in their lifetime or consider this class the first step in a longer course of study, it is our sincere hope that they feel more comfortable with—and indeed sometimes skeptical of—the technologies that surround us each day.
 
 ## Expectations
+**Respect** — You should expect me to treat you with respect. I expect you to treat your classmates, our classroom, and our school with respect.
+
+**Initiative, Hard Work, & Patience** — Success at anything, including this class, requires hard work, and patience. Only you have control over what you do with your time. To succeed in this class, you will have to show initiative. You will have to read, write, study, and ask questions. Only you can do those things for yourself.
+
+**Accountability** — If you believe a classmate has fallen short of these expectations, speak to them. If you believe I have fallen short as your teacher, speak to me.
 
 Students are expected to submit all problems! If students would like to receive AP credit they will need to take the [AP CSP Exam](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam) and complete the [Create and Explore Tasks](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf).
 
@@ -150,9 +155,9 @@ We present below a recommended ordering of the curriculum and a suggested timeta
 
 This course's philosophy on academic honesty is best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course's material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
 
-The essence of all work that students submit to this course must be their own. Collaboration on problems is not permitted except to the extent that students may ask classmates and others for help so long as that help does not reduce to another doing thier work for them. Generally speaking, when asking for help, students may show their code to others, but they may not view their peers', so long as they respect this policy's other constraints. Collaboration on the AP Computer Science Principle's through-course assessments, namely the create and explore task, is permitted to the extent prescribed by their description provided by the College Board.
+The essence of all work that students submit to this course must be their own. Collaboration on problems is not permitted except to the extent that students may ask classmates and others for help so long as that help does not reduce to another doing their work for them. Generally speaking, when asking for help, students may show their code to others, but they may not view their peers', so long as they respect this policy's other constraints. Collaboration on the AP Computer Science Principles' through-course assessments, namely the create and explore task, is permitted to the extent prescribed by their description provided by the College Board.
 
-Below are rules of thumb that (inexhaustively) characterize acts that the course considers reasonable and not reasonable. Acts considered not reasonable by the course are handled harshly.
+Below are rules of thumb that (inexhaustibly) characterize acts that the course considers reasonable and not reasonable. Acts considered not reasonable by the course are handled harshly.
 
 ### Reasonable
 
