@@ -153,7 +153,12 @@ We present below a recommended ordering of the curriculum and a suggested timeta
 
 ## Academic Honesty
 
-This course's philosophy on academic honesty is best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course's material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
+The Tower Hill Honor Pledge reads as follows:
+
+>On my honor, I have neither given nor received any unauthorized assistance on this assignment or assessment.
+
+In computer science classes, the difference between unauthorized and authorized assistance is 
+ best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course's material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
 
 The essence of all work that students submit to this course must be their own. Collaboration on problems is not permitted except to the extent that students may ask classmates and others for help so long as that help does not reduce to another doing their work for them. Generally speaking, when asking for help, students may show their code to others, but they may not view their peers', so long as they respect this policy's other constraints. Collaboration on the AP Computer Science Principles' through-course assessments, namely the create and explore task, is permitted to the extent prescribed by their description provided by the College Board.
 
