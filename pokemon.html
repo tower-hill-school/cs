@@ -37,28 +37,7 @@
             var chart = new google.visualization.Gauge(document.getElementById('chart_div'));
             chart.draw(data, options);
         });
-        return false;
-        
-        
-        /*
-        P.getPokemonByName(name)
-          .then(function(data) {
-            poke_data = data;
-            document.querySelector('img').src = data.sprites.front_default;
-            let stats = data.stats;
-            for (let i = 0; i < stats.length; i++) {
-              let stat_name = stats[i].stat.name;
-              let stat_value = stats[i].base_stat;
-              poke_stats.push([stat_name, stat_value])
-            }
-            console.log(poke_stats);
-            var data = google.visualization.arrayToDataTable(poke_stats);
-            var chart = new google.visualization.Gauge(document.getElementById('chart_div'));
-            chart.draw(data, options);
-          }
-        );
-        */
-        
+        return false;        
       }
     </script>
   </head>
