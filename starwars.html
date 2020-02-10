@@ -1,0 +1,57 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="swapi.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['table']});
+
+      function drawTable(data_rows) {
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Name');
+        data.addColumn('number', 'Cost');
+        /*
+        data.addColumn('number', 'Length');
+        data.addColumn('number', 'Crew');
+        data.addColumn('number', 'Passengers');
+        data.addColumn('number', 'Cargo');
+        data.addColumn('number', 'Speed');
+        data.addColumn('number', 'Hyperdrive Rating');
+        */
+        data.addRows(data_rows);
+
+        var table = new google.visualization.Table(document.getElementById('table_div'));
+
+        table.draw(data, {showRowNumber: true, width: '50%', height: '50%'});
+      }
+
+      swapiModule.getStarships(function(response) {
+        console.log('response');
+        console.log(response);
+        var total_count = response.count;
+        var ships = response.results;
+        var ship_count = ships.length;
+        console.log('ships');
+        console.log(ships);
+        var my_rows = [];
+        for (let i = 0; i < ship_count; i++) {
+            console.log('i');
+            console.log(i);
+            var ship = ships[i];
+            console.log('ship');
+            console.log(ship);
+            my_rows.push([
+              ship.name,
+              ship.cost_in_credits * 1,
+            ]);
+        }
+        drawTable(my_rows);
+      });
+
+    </script>
+  </head>
+  <body>
+    <h1>Star Wars Starships</h1>
+    <div id="table_div"></div>
+  </body>
+</html>
+
