@@ -21,8 +21,8 @@
           minorTicks: 5
         };
 
-        P.getPokemonByName(name)
-          .then(function(data) {
+        var url = 'https://pokeapi.co/api/v2/pokemon/' + name;
+        jQuery.get(url, function(data) {
             poke_data = data;
             document.querySelector('img').src = data.sprites.front_default;
             let stats = data.stats;
@@ -35,8 +35,7 @@
             var data = google.visualization.arrayToDataTable(poke_stats);
             var chart = new google.visualization.Gauge(document.getElementById('chart_div'));
             chart.draw(data, options);
-          }
-        );
+        });
         return false;
       }
     </script>
