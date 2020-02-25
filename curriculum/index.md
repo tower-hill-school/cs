@@ -2,9 +2,7 @@
 
 Recognizing that upper school students arrive in the computer science classroom with a diversity of experience and background, the three computer science courses - _Introduction to Computer Science_, _Computer Science_, and _Advanced Computer Science Principles_ are designed to allow students to progress through the core curriculum following the path that is best for them. 
 
-See the [courses page](courses) for more information about the material covered in each course.
-
-**NOTE: In 2020-21, _Computer Science_ and _Advanced Computer Science Principles_ are being offered as a combined course entitled _Advanced Computer Science_.**
+See the [courses page](courses) for more information about the courses and the material covered in each.
 
 ## Core Curriculum
 
