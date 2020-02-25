@@ -12,7 +12,11 @@ The recommended path is _Introduction to Computer Science_ followed by _Front-en
 
 Students whose primary interest is in web design (more art, less tech), should consider following the same path, though electing to take _Front-end Web Design and Development_ first might be a better choice for rising 11th and 12th graders who cannot complete _Introduction to Computer Science_ first.
 
-Students who have little interest in web design or are more interested in the technical side of web development could choose to skip _Front-end Web Design and Development_ or perhaps take it after they have completed _Advanced Computer Science_. Rising 12th graders who cannot fit both _Introduction to Computer Science_ and _Advanced Computer Science_ in their schedules may choose to take only _Advanced Computer Science_. Rising 11th graders who are ready for the challenge and the committment may want to do the same thing, especially if they are interested in taking any new electives which might be offered during the following year. 
+Students who have little interest in web design or are more interested in the technical side of web development could choose to skip _Front-end Web Design and Development_ or perhaps take it after they have completed _Advanced Computer Science_. 
+
+Rising 12th graders who cannot fit both _Introduction to Computer Science_ and _Advanced Computer Science_ in their schedules may choose to take only _Advanced Computer Science_.
+
+Rising 11th graders who are ready for the challenge and the committment may also want to skip _Introduction to Computer Science_ and take _Advanced Computer Science_, especially if they are interested in taking any new electives which might be offered during the following year. 
 
 ## What are students saying about computer science at THS?
 
