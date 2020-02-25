@@ -18,6 +18,6 @@ This course covers the material in chapters zero through eight of the [core curr
 
 Support will be provided to those students who wish to prepare for the AP Computer Science Principles exam in May.
 
-This course reviews the material from chapters zero through eight of the [core curriculum]({{ "/curriculum/#core-curriculum" | relative_url }}) as necessary and covers the material in the [AP modules]({{ "/curriculum/#ap-modules-for-ap-csp
+This course reviews the material from chapters zero through eight of the [core curriculum]({{ "/curriculum/#core-curriculum" | relative_url }}) as necessary and covers the material in the [AP modules]({{ "/curriculum/#ap-modules-for-ap-csp"
  | relative_url }}).
 
