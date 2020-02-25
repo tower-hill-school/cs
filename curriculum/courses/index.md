@@ -1,3 +1,5 @@
+# Courses
+
 ## Computer Science
 
 **NOTE: In 2020-21, _Computer Science_ and _Advanced Computer Science Principles_ are being offered as a combined course entitled _Advanced Computer Science_.**
@@ -21,3 +23,8 @@ Support will be provided to those students who wish to prepare for the AP Comput
 This course reviews the material from chapters zero through eight of the [core curriculum]({{ "/curriculum/#core-curriculum" | relative_url }}) as necessary and covers the material in the [AP modules]({{ "/curriculum/#ap-modules-for-ap-csp"
  | relative_url }}).
 
+## Web Development
+
+### _Front-end Web Design and Development_ 
+
+Led by faculty from the computer science and art departments, students will discover the principles of successful user interface and user experience design (UI/UX), exercise creative project planning, create their own visual designs, and bring their designs to life using the fundamental languages of the web - HTML, CSS, and JavaScript. Students will also explore modern web development frameworks, including Bootstrap, Backbone, Angular, and React.
