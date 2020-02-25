@@ -10,10 +10,9 @@ Most students find comptuer science challenging, but many have found it to be ve
 
 Taking _Introduction to Computer Science_ followed by _Front-end Web Design and Development_ and then _Advanced Computer Science_ will give any student a solid understanding of many aspects of computer science.
 
-Students whose primary interest is in web design (more art, less tech), should consider following the same path, though electing to take _Front-end Web Design and Development_ first might be a better choice for rising 11th and 12th graders who may not be able to complete _Introduction to Computer Science_ first.
+Students whose primary interest is in web design (more art, less tech), should consider following the same path, though electing to take _Front-end Web Design and Development_ first might be a better choice for rising 11th and 12th graders who cannot complete _Introduction to Computer Science_ first.
 
 Students who have little interest in web design or are more interested in the technical side of web development could choose to skip _Front-end Web Design and Development_ or perhaps take it after they have completed _Advanced Computer Science_.
-
 
 ## What are students saying about computer science at THS?
 
