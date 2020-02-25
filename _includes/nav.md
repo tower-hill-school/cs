@@ -7,7 +7,7 @@
 
 * [Style Guide - C](https://cs50.readthedocs.io/style/c/)
 * [Style Guide - Python](https://www.python.org/dev/peps/pep-0008/)
-
+* [Style Guidd - JavaScript](https://github.com/rwaldron/idiomatic.js/)
 
 ***
 * [CS50 IDE](https://ide.cs50.io/)
