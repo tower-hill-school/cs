@@ -2,7 +2,7 @@
 title: false
 ---
 
-# Hello, world!
+# Hello, world! 
 
 This is Advanced Computer Science Principles, Tower Hill School's adaptation of Harvard University's CS50 AP - an introduction to the intellectual enterprises of computer science and the art of programming for students in high school.
 
