@@ -17,6 +17,5 @@
 ***
 
 * [Github](https://github.com)
-* [Code.org](https://code.org)
-* [Classroom](https://classroom.google.com)
+
 
