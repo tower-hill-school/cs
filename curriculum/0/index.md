@@ -1,8 +1,11 @@
 # Chapter 0
 
 * [Notes](notes)
-* Problem
-  * [Scratch](https://docs.cs50.net/2019/ap/problems/scratch/scratch.html)
+* Problems
+  * [Around the House](https://github.com/bsoist/labs/tree/2019/around-the-house)
+  * [Everyday Algorithms](https://github.com/bsoist/labs/tree/2019/pseudocode)
+  * [Scratch](https://github.com/bsoist/labs/tree/2019/scratch)
+  * [Scratch Reflection](https://github.com/bsoist/labs/tree/2019/scratch_refection)  
 * [Slides](https://cdn.cs50.net/2018/fall/lectures/0/lecture0.pdf)
 * Source Code from Lecture
   * [Index](https://cdn.cs50.net/2018/fall/lectures/0/src0/)
