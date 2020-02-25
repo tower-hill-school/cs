@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 ## Who should take computer science?
-Everyone should. Serously. No matter what you plan to study after you graduate, computer science can help you. You will improve your ability to think through any problem and solve it. You will also learn how computers and the internet work at the most fundamentatl level, which will give you a basis for learning any new technology.
+Everyone should. Seriously. No matter what you plan to study after you graduate, computer science can help you. You will improve your ability to think through any problem and solve it. You will also learn how computers and the internet work at the most fundamentatl level, which will give you a basis for learning any new technology.
 
 ## Is computer science hard?
 
@@ -8,7 +8,7 @@ Most students find comptuer science challenging, but many have found it to be ve
 
 ## Which class should I take?
 
-The recommended path is _Introduction to Computer Science_ followed by _Front-end Web Design and Development_ and then _Advanced Computer Science_. This path will give any student a solid understanding of a many aspects of computer science.
+The recommended path is _Introduction to Computer Science_ followed by _Front-end Web Design and Development_ and then _Advanced Computer Science_. This path will give any student a solid understanding of many aspects of computer science.
 
 Students whose primary interest is in web design (more art, less tech), should consider following the same path, though electing to take _Front-end Web Design and Development_ first might be a better choice for rising 11th and 12th graders who cannot complete _Introduction to Computer Science_ first.
 
